@@ -41,3 +41,9 @@ This project is designed to help you understand and implement a data access laye
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
 
+## 📂 Project Structure
+- spring.datasource.url=jdbc:mysql://localhost:3306/projectdb
+- spring.datasource.username=your-username
+- spring.datasource.password=your-password
+- spring.jpa.hibernate.ddl-auto=update   
+
