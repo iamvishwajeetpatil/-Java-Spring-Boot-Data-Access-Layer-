@@ -9,12 +9,10 @@ This project is designed to help you understand and implement a data access laye
 - Setting up Spring Boot
 - Configuring a database connection
 - Implementing CRUD operations
-- Using JPA for database interactions
 
 ## 🛠️ Features
 
 - **Spring Boot**: A powerful framework for building Java applications.
-- **JPA**: Java Persistence API for easy database access.
 - **CRUD Operations**: Create, Read, Update, Delete functionalities.
 - **MySQL Database**: Robust and reliable database solution.
 
@@ -30,7 +28,6 @@ This project is designed to help you understand and implement a data access laye
 
 - Java Development Kit (JDK) 11 or higher
 - Maven
-- Git
 - MySQL
 
 ### Installation
